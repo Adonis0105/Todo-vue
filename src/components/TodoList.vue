@@ -102,8 +102,8 @@ export default {
   max-width: 700px;
   padding-left: 200px;
   padding-right: 200px;
-  padding-top: 15px;
-  padding-bottom: 10%;
+  padding-top: 50px;
+  padding-bottom: 20%;
   
   
   background: linear-gradient(135deg, #6a11cb, #2575fc);
